@@ -12,7 +12,6 @@ void main (){
    //Miriam Vargas Carrillo:22308051281110
    //Llamar a la funcion saludar
 
-   
    print('Miriam Vargas Carrillo:22308051281110');
    print('Llamando a la funcion saludar');
    saludar();
